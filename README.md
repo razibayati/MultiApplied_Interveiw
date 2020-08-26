@@ -23,7 +23,7 @@ o	destination UDP/TCP port (if protocol is UDP or TCP)
 
 example output, note that you don't need to match this formatting exactly its just an example of how you could showcase all the details:
 
-# python3 sniffer.py enp1s0
+#python3 sniffer.py enp1s0
 
 10.100.50.151:34164<->255.255.255.255:10001 17 => 8
 
