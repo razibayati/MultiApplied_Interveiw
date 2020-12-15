@@ -1,4 +1,4 @@
-# MultiApplied_Interveiw
+# packet_sniffer
 Create a flow tracking application using a raw socket (SOCK_RAW). The program needs to function on a Linux operating system. The application must perform the following tasks:
 
 •	Open a raw network socket (SOCK_RAW)
